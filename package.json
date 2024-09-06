@@ -1,0 +1,21 @@
+{
+  "name": "hunger-web-server",
+  "version": "1.0.0",
+  "description": "Simple bypass server for my personal project  hunger-web-app a  swiggy clone using swiggy API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "server",
+    "cors-bypass"
+  ],
+  "author": "Khush Chaurasia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
